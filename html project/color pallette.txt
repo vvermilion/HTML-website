@@ -1,4 +1,0 @@
-darker color: #283770
-main color: #334485
-even darker color (for nav bar): #202b57
-white: #c0c8ed
